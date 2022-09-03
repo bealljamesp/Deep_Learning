@@ -22,5 +22,6 @@
   3. **Summary**  
 
       * Overall results are positive. 
-      Logistic regression, Naive Bayes, K-Nearest Neighbors, and Decision Tree
+      * Logistic regression, Naive Bayes, K-Nearest Neighbors, and Decision Tree
       models might be worth looking into. 
+      * My self-recommendation is to grind through combinations to gain intuition. 
